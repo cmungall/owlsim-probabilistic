@@ -341,6 +341,10 @@ public class GMProfileMatcher extends AbstractSemanticSimilarityProfileMatcher i
 		return mp;
 	}
 
+	public String getShortName() {
+		return "GMProfileMatcher";
+	}
+
 
 
 
